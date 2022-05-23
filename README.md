@@ -1,5 +1,7 @@
 # TinDawg
 
+A dating app for your 4-legged fur-babies of the K9 type.
+
 ## Created With
 
 This project was created using HTML5, Bootstrap, CSS3, and Font Awesome.
