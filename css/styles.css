@@ -27,7 +27,8 @@ p {
 	color: #8f8f8f;
 }
 
-#title {
+#title,
+#cta {
 	color: #fff;
 	background-color: #ff4c68;
 }
@@ -73,6 +74,8 @@ p {
 }
 
 #features,
+#cta,
+#footer,
 .carousel-item {
 	padding: 7% 15%;
 }
@@ -113,7 +116,6 @@ p {
 
 #pricing {
 	padding: 100px;
-	text-align: center;
 }
 
 .pricing-column {
@@ -130,4 +132,8 @@ p {
 	#title {
 		text-align: center;
 	}
+}
+
+#footer {
+	background-color: #fff;
 }
